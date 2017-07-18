@@ -13,7 +13,7 @@
 extern uint32_t var;
 
 void setup() {
-  var++;
+  ;
 }
 
 void loop() {
